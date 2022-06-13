@@ -17,7 +17,7 @@
       <h3 align="center">Conectar</h3>
         <br />
         <a target="_blank" href="https://conectar-jjm.herokuapp.com/">
-            <img src="images/gif1.gif" width="100%" alt="Appointment App"/>
+            <img src="imgs/conectar.gif" width="100%" alt="Appointment App"/>
         </a>
         <br />
         <p align="center">
@@ -35,7 +35,7 @@
       <h3 align="center">React Blog</h3>
         <br />
       <a target="_blank" href="https://react-blog-jjm.herokuapp.com/">
-            <img src="images/gif2.gif" width="100%"  alt="React Blog"/>
+            <img src="imgs/react_blog.gif" width="100%"  alt="React Blog"/>
         </a>
         <br />
         <p align="center">
@@ -55,7 +55,7 @@
       <h3 align="center">React Github Search</h3>
         <br />
         <a target="_blank" href="https://github-search-react-jjm.herokuapp.com/">
-            <img src="images/gif1.gif" width="100%" alt="React Github Search"/>
+            <img src="imgs/github_search_VJS.gif" width="100%" alt="React Github Search"/>
         </a>
         <br />
         <p align="center">
@@ -73,7 +73,7 @@
       <h3 align="center">Vanilla Javascript Github Search</h3>
         <br />
       <a target="_blank" href="https://github-search-jjm.herokuapp.com/">
-            <img src="images/gif2.gif" width="100%"  alt="Vanilla Javascript Search"/>
+            <img src="imgs/github_search_VJS.gif" width="100%"  alt="Vanilla Javascript Search"/>
         </a>
         <br />
         <p align="center">
