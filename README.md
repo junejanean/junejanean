@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/i5dLv1h.jpg" width="100%">
+<p align="center"><img src="imgs/IG_junejanean_NYC.jpg" ></p>
 
 <h3>A passionate software engineer from Texas. I am inspired by the power of technology as a tool to create valuable products, with a background in Architecture, Photography, Design and Business.</h3><br />
 
