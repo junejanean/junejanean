@@ -35,7 +35,7 @@
       <h3 align="center">React Blog</h3>
         <br />
       <a target="_blank" href="https://react-blog-jjm.herokuapp.com/">
-            <img src="imgs/react_blog.gif" width="100%"  alt="React Blog"/>
+            <img src="imgs/react_blog.gif" width="91%"  alt="React Blog"/>
         </a>
         <br />
         <p align="center">
