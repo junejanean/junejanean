@@ -1,9 +1,5 @@
 <h3>Hi, I'm Janean Mann. A passionate software engineer from Texas. I am inspired by the power of technology as a tool to create valuable products, with a background in architecture, photography, design and business.</h3><br />
 
-- 🌱 A proactive learner who enjoys keeping up with new web development trends and learning new languages / frameworks.
-
-- 📫 How to reach me: junejanean@gmail.com
-
 <br />
 
 <h1 align="center">Projects</h1>
